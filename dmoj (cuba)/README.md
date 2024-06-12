@@ -1,2 +1,3 @@
-> [!WARNING]
-> This page tends to be down :/
+# ⚠️ Important Notice
+
+> **Warning**: This page may occasionally be unavailable. 😟
